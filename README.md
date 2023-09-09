@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning algorithm and data structure implementation techniques by programming.
 - 💞️ I’m looking to collaborate on data mining in SQL.
 - 📫 How to reach me: peytonjohnhall@gmail.com
+- 🎓 Lakeville South High School, Saint Paul College, Metropolitan State University 
 
 <!---
 Peytonjohnhall/Peytonjohnhall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
