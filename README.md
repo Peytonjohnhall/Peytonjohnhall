@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peytonjohnhall
 - 👀 I’m interested in Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning algorithm and data structure implementation techniques by programming.
+- 🌱 I’m currently learning algorithm and data structure implementation techniques.
 - 💞️ I’m looking to become a professional Data Scientist.
 - 📫 How to reach me: peytonjohnhall@gmail.com
 - 🎓 Lakeville South High School, Saint Paul College, Metropolitan State University 
